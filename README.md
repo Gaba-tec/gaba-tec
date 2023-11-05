@@ -2,7 +2,6 @@
 
 - 🔭 Eu trablho com AutoCad e Lisp
 - 🌱 Estou estudando Back-end com C# / PHP
-- 👯 I’m looking to collaborate on ...
 - 📫 Contate-me: gabrielmirandazacarias@gmail.com
 - 😄 Pronomes: ele/dele
 
